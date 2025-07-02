@@ -1,7 +1,7 @@
 ### Hi there 👋    
 [![](https://visitcount.itsvg.in/api?id=stephmut24&icon=4&color=0)](https://visitcount.itsvg.in) 
 
-- 🔭 I’m currently working on **Web app projects*
+- 🔭 I’m currently working on **Web app projects**
 - 👯 I’m looking to collaborate on **Front and backend Dev Projects**
 - 💬 Ask me about **Technology and Personal Development**
 - 📫 How to reach me: **stephanemugisho24@gmail.com**
